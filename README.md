@@ -24,4 +24,5 @@ If you're anything like me, you have hundreds of bookmarks, an overflowing list 
 - [Sublime Text](command-line/sublime.md): For when you actually need to get work done instead of running around like a chicken when your head cut off.
 
 # Mac
-
+- [General](mac/mac.md): Articles that have helped me use my computer be better
+- [Applications](mac/applications.md): Apps I'm usin' that I like
