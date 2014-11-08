@@ -1,6 +1,7 @@
 # Terminal 
 
 ## Library
+- [lsof Survival Guide](http://stackoverflow.com/questions/106234/lsof-survival-guide): Kill ports, find PIDs, etc.
 
 ## Tools
 - [iTerm2](http://iterm2.com/): iTerm is nicer than the regular terminal [for a lot of reasons](http://iterm2.com/features.html). It also feels exactly the same if you're antsy about switching over, so that's nice.
