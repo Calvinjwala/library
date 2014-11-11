@@ -2,10 +2,6 @@
 If you're anything like me, you have hundreds of bookmarks, an overflowing list on [Pocket](http://getpocket.com/), and a bunch of other shit you don't feel like organizing but is useful (namely, the [SO](http://stackoverflow.com/) posts on how to do that git thing, what was it?, let me google it). Well, fuck this shit! Writing in Markdown is fun, so let's get to it.
 
 # Front-End
-<<<<<<< HEAD
-
-# Design
-=======
 - [HTML](front-end/html.md): First things first.
 - [Sass](front-end/sass.md): Our favorite, amirite guys?
 - [Javascript](front-end/javascript.md): We'll probably never be good at writing it but we can at least try right? ... right?
@@ -19,7 +15,6 @@ If you're anything like me, you have hundreds of bookmarks, an overflowing list 
 - [Icons](design/icons.md): Icons ftw!
 - [Photography](design/photos.md): Stock photography that can make your website look like all others
 - [Sound](design.sound.md): Resources for sounds.
->>>>>>> 240da0198f915e7158157cb7fa7ef8d520cb012e
 
 # Command Line
 - [Git](command-line/git.md): Resources for your favorite version control, yours truly.
@@ -27,10 +22,7 @@ If you're anything like me, you have hundreds of bookmarks, an overflowing list 
 - [Terminal](command-line/terminal.md): Pimp that shit out, yo, you always be in it.
 - [Vim](command-line/vim.md): If you use it, you can brag about it to all your friends.
 - [Sublime Text](command-line/sublime.md): For when you actually need to get work done instead of running around like a chicken when your head cut off.
-<<<<<<< HEAD
-=======
 
 # Mac
 - [General](mac/mac.md): Articles that have helped me use my computer be better
 - [Applications](mac/applications.md): Apps I'm usin' that I like
->>>>>>> 240da0198f915e7158157cb7fa7ef8d520cb012e
