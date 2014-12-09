@@ -1,4 +1,5 @@
 # Icons
+So many damn icon sets exist. These are the ones I like.
 
 ## Resources
 - [Roundup](http://designinstruct.com/roundups/line-icons-free/): A bajillion different kinds of line icons.

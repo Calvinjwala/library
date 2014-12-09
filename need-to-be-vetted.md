@@ -1,4 +1,5 @@
 # Needs to Be Vetted
+Things that seem worth incorporating but that I haven't gotten around to vetting yet.
 
 - [Speed Design with Illustrator](http://www.designsprint.net/)
 - [Foundations of Computer Science](http://i.stanford.edu/~ullman/focs.html)

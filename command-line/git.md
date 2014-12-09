@@ -1,4 +1,5 @@
 # Git
+Deets on our favorite version control software.
 
 - [Changing Author Info](https://help.github.com/articles/changing-author-info/): I often will accidentally write a ton of commits on my work git account. This will correct all of those, assuming you're the only person on the repo.
 

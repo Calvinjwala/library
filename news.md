@@ -1,4 +1,5 @@
 # News
+Where I find all my ~~c00l new stuff~~
 
 - [Hacker News](https://news.ycombinator.com/): Developer news.
 

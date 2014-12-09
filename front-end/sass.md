@@ -1,4 +1,5 @@
 # Sass
+Our favorite CSS precompiler.
 
 ## Library
 - [Alphabetical list of CSS Properties](http://ref.openweb.io/CSS/): I've never even heard of some of these.

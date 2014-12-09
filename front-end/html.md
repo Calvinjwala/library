@@ -1,4 +1,5 @@
-# HTML Stuff
+# HTML
+The backbone of your content, the knight of user agent strings, the emperor of semantics!
 
 ## Library
 - [Robots](http://www.robotstxt.org/robotstxt.html): If you were ever curious about this dohickey

@@ -1,4 +1,5 @@
 # Terminal 
+Soup it up. Bash/ZSH stuff thrown in here too.
 
 ## Library
 - [lsof Survival Guide](http://stackoverflow.com/questions/106234/lsof-survival-guide): Kill ports, find PIDs, etc.
