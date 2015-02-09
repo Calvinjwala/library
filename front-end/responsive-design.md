@@ -3,3 +3,4 @@ A website should work on you rphone, on your tablet, on your computer, on your e
 
 ## Library
 - [Responsive Design Resources](http://bradfrost.github.io/this-is-responsive/resources.html): Better round-up than anything I can put here, I assure you.
+- [Screen Sizes](http://screensiz.es/phone): Less important as we begin to build for any size, but a good way to convince others they should let you build something the right way.
