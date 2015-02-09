@@ -6,3 +6,6 @@ Don't want your site to load slowly on mobile, do you?
 
 ## Progressive Enhancement
 - [The Issue with MVCs](http://timkadlec.com/2015/02/client-side-templatings-major-bug/): Page speed loads and the problem with Angular/Backbone/What-Have-You on mobile.
+
+## Need to Be Vetted
+- [React Server Example](https://github.com/mhart/react-server-example)
