@@ -20,6 +20,7 @@ Our favorite CSS precompiler.
 	.selector { ... }
 	.other-selector .selector { ... }
 	```
+- [All You Ever Need to Know About Sass Interpolation](http://webdesign.tutsplus.com/tutorials/all-you-ever-need-to-know-about-sass-interpolation--cms-21375): How it works and some useful examples.
 
 ## Tools
 - [Shrthnd](http://shrthnd.volume7.io/): Concatenate your CSS selectors into their shorthand versions.
