@@ -36,14 +36,14 @@ Front End Dev is the majority of what I do. I normally will create a local serve
 - [HTML](front-end/html.md): It's hard to write HTML semantically and have everything memorized, but it's important that you put thought into it for accessibility reasons.
 - [D3](front-end/d3.md): A super-impressive data visualization library with huge community support from [@mbstock](http://bl.ocks.org/mbostock).
 - [Javascript](front-end/javascript.md): I got into the game using only jQuery but quickly realized that things were much more complicated than simple DOM-manipulation. Javascript's come into its own over the past decade and is its own formidable language especially with the advent of [Node](http://nodejs.org/). This of course means that Javascript can be as dumb or as complicated as you'd like to make it for youself.
-- [Performance](front-end/performance.md): Performance is a tricky game, particularly with the rise of large front-end frameworks. Putting the effort into making your pages fast is however all the more important with the rise of mobile devices and if you're trying to reach as [large as audience as possible](https://twitter.com/scottjehl/status/568455416868421632).
+- [News](front-end/news.md): Where I look to find the newest things happening in web and mobile design/development.
+- [Performance](front-end/performance.md): Performance is a tricky game, particularly with the rise of large front-end frameworks. Putting the effort into making your pages fast is however all the more important with the rise of mobile devices and if you're trying to reach as [large as audience as possible](https://twitter.com/scottjehl/status/568455416868421632). My favorite tool for this is [Google's Page Speed Insights](https://developers.google.com/speed/pagespeed/insights/).
 - [Sass](front-end/sass.md): My favorite CSS preprocessor. I used [Less](http://lesscss.org/) for a time but Sass has better community support. I tend to use the SCSS syntax.
+- [Style Guides](front-end/style-guide.md): A collection of code and design style guides.
+- [Sublime Text](front-end/sublime.md): My favorite next editor for front-end development. This includes some of my favorite packages.
+- [SVG](front-end/svg.md): Scalable vector graphics, which are a fancy way to have truly responsive elements on the web.
 
 - [Responsive Design](front-end/responsive-design.md): There's literally one link in here, linking to someone who has the best list of resources evar
-- [Style Guide](front-end/style-guide.md): Code style guides and design style guides, just to be confusing
-- [SVG](front-end/svg.md): SVGs are awesome
-- [News](front-end/news.md): Where I look to find newest inspiration
-- [Sublime Text](front-end/sublime.md): My favorite next editor for front-end development.
 
 ### Mac
 - [General](mac/mac.md): Articles that have helped me use my computer be better
