@@ -33,8 +33,8 @@ All good design takes into account the user, the people using your product. If y
 ### Front End Development
 Front End Dev is the majority of what I do. I normally will create a local server with the [command line](#command-line) and write code in [Sublime Text](http://www.sublimetext.com/3). My favorite build tool is [Gulp](http://gulpjs.com/), and the fanciest tool in my arsenal is [BrowserSync](http://www.browsersync.io/), which allows you to populate changes in real-time on save across a variety of devices. My current Gulp setup is a mod of [this gulp starter](https://github.com/greypants/gulp-starter) because I really digged how it used [Browserify](http://browserify.org/). I use [Sass](http://sass-lang.com/) and have used a few different front-end frameworks but I'm ambivalent about most of them. My next foray will be into [React](http://facebook.github.io/react/).
 
-- [HTML](front-end/html.md): It's hard to write HTML semantically and have everything memorized, but it's important that you put thought into it for accessibility reasons.
 - [D3](front-end/d3.md): A super-impressive data visualization library with huge community support from [@mbstock](http://bl.ocks.org/mbostock).
+- [HTML](front-end/html.md): It's hard to write HTML semantically and have everything memorized, but it's important that you put thought into it for accessibility reasons.
 - [Javascript](front-end/javascript.md): I got into the game using only jQuery but quickly realized that things were much more complicated than simple DOM-manipulation. Javascript's come into its own over the past decade and is its own formidable language especially with the advent of [Node](http://nodejs.org/). This of course means that Javascript can be as dumb or as complicated as you'd like to make it for youself.
 - [News](front-end/news.md): Where I look to find the newest things happening in web and mobile design/development.
 - [Performance](front-end/performance.md): Performance is a tricky game, particularly with the rise of large front-end frameworks. Putting the effort into making your pages fast is however all the more important with the rise of mobile devices and if you're trying to reach as [large as audience as possible](https://twitter.com/scottjehl/status/568455416868421632). My favorite tool for this is [Google's Page Speed Insights](https://developers.google.com/speed/pagespeed/insights/).
@@ -47,13 +47,14 @@ Front End Dev is the majority of what I do. I normally will create a local serve
 ### Mac
 In high school I got my first computer: a Lenovo Thinkpad with Ubuntu on it. I haven't used a Windows computer since. That said there are lots of things that surprise me about my computer, from Unix to Mac-specific things. Every couple of months I like to go through and up my computer-productivity. 
 
-- [General](mac/mac.md): Articles that have helped me demystify my computer.
 - [Applications](mac/applications.md): Applications I use that don't really fall into any other category but that I like a lot nonetheless.
+- [General](mac/mac.md): Articles that have helped me demystify my computer.
 
 ### Minorities in Tech
 Tech is a field that is still very much a white boys' club. I like collecting articles that eloquently describe various complications/struggles that minorities face in the tech field resources for minorities in the field. [Minorities in Tech](minorities-in-tech.md)
 
 ### Work
+Career development is a tricky thing for an introvert like me - I like collecting articles around how to excel in the workplace, how to become a better writer, and how to be a better public speaker. And, of course, how to stay balanced.
 
 - [Advancement](work/advancement.md):
 - [Public Speaking](work/public-speaking.md):
