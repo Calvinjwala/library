@@ -1,7 +1,14 @@
 # Library
-If you're anything like me, you have hundreds of bookmarks, an overflowing list on [Pocket](http://getpocket.com/), and a bunch of other shit you don't feel like organizing but is useful (namely, the [SO](http://stackoverflow.com/) posts on how to do that git thing, what was it?, let me google it). Well, fuck this shit! Writing in Markdown is fun, so let's get to it.
+If you're anything like me you have too many bookmarks, an overflowing Pocket, and a bunch of other things that are probably working organizing in some fashion. This is my attempt to wrestle that beast. Welcome to my library.
 
-# Front-End
+## Table of Contents
+1. [Front End Development](#front-end-development)
+2. [Design](#design)
+3. [Command Line](#command-line)
+4. [Mac](#mac)
+4. [Work](#work)
+
+### Front End Development
 - [HTML](front-end/html.md): First things first.
 - [Sass](front-end/sass.md): Our favorite, amirite guys?
 - [Javascript](front-end/javascript.md): We'll probably never be good at writing it but we can at least try right? ... right?
@@ -11,18 +18,23 @@ If you're anything like me, you have hundreds of bookmarks, an overflowing list 
 - [Style Guide](front-end/style-guide.md): Code style guides and design style guides, just to be confusing
 - [SVG](front-end/svg.md): SVGs are awesome
 
-# Design
+### Design
 - [Icons](design/icons.md): Icons ftw!
 - [Photography](design/photos.md): Stock photography that can make your website look like all others
 - [Sound](design.sound.md): Resources for sounds.
 
-# Command Line
+### Command Line
 - [Git](command-line/git.md): Resources for your favorite version control, yours truly.
 - [Markdown](command-line/markdown.md): Once you go 'down you never go... back? Idek. 
 - [Terminal](command-line/terminal.md): Pimp that shit out, yo, you always be in it.
 - [Vim](command-line/vim.md): If you use it, you can brag about it to all your friends.
 - [Sublime Text](command-line/sublime.md): For when you actually need to get work done instead of running around like a chicken when your head cut off.
 
-# Mac
+### Mac
 - [General](mac/mac.md): Articles that have helped me use my computer be better
 - [Applications](mac/applications.md): Apps I'm usin' that I like
+
+### Work
+- [Advancement](work/advancement.md):
+- [Public Speaking](work/public-speaking.md):
+- [Work Life Balance](work/work-life-balance.md):
