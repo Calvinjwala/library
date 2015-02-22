@@ -1,0 +1,1 @@
+[Presentation Skills Considered Harmful](http://seriouspony.com/blog/2013/10/4/presentation-skills-considered-harmful): Public speaking is really hard and Serious Pony really nails it on the head as to why and her trick for conceptually ignoring it.
