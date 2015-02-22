@@ -45,15 +45,16 @@ Front End Dev is the majority of what I do. I normally will create a local serve
 - [SVG](front-end/svg.md): Scalable vector graphics, which are a fancy way to have truly responsive elements on the web.
 
 ### Mac
-- [General](mac/mac.md): Articles that have helped me use my computer be better
-- [Applications](mac/applications.md): Apps I'm usin' that I like
+In high school I got my first computer: a Lenovo Thinkpad with Ubuntu on it. I haven't used a Windows computer since. That said there are lots of things that surprise me about my computer, from Unix to Mac-specific things. Every couple of months I like to go through and up my computer-productivity. 
 
-### Women in Tech
-- [Advancement](work/advancement.md):
-- [Public Speaking](work/public-speaking.md):
-- [Work Life Balance](work/work-life-balance.md):
+- [General](mac/mac.md): Articles that have helped me demystify my computer.
+- [Applications](mac/applications.md): Applications I use that don't really fall into any other category but that I like a lot nonetheless.
+
+### Minorities in Tech
+Tech is a field that is still very much a white boys' club. I like collecting articles that eloquently describe various complications/struggles that minorities face in the tech field resources for minorities in the field. [Minorities in Tech](minorities-in-tech.md)
 
 ### Work
+
 - [Advancement](work/advancement.md):
 - [Public Speaking](work/public-speaking.md):
 - [Work Life Balance](work/work-life-balance.md):
