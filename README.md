@@ -56,8 +56,8 @@ Tech is a field that is still very much a white boys' club. I like collecting ar
 I also collect articles on this subject that I don't particularly agree with to better understand the other side of this issue. [Debate](debate.md)
 
 ### Work
-Career development is a tricky thing for an introvert like me - I like collecting articles around how to excel in the workplace, how to become a better writer, and how to be a better public speaker. And, of course, how to stay balanced.
+Career development is a tricky thing for an introvert like me, so I like collecting articles around how to excel in the workplace. how to become a better writer, and how to be a better public speaker. And, of course, how to stay balanced.
 
-- [Advancement](work/advancement.md):
-- [Public Speaking](work/public-speaking.md):
-- [Work Life Balance](work/work-life-balance.md):
+- [Advancement](work/advancement.md): How to excel in the workplace.
+- [Public Speaking](work/public-speaking.md): A combination of articles around how to become a better speaker and how to become a better writer.
+- [Work Life Balance](work/work-life-balance.md): A collection of articles around how to just be happy while getting what you need done done.
