@@ -53,6 +53,8 @@ In high school I got my first computer: a Lenovo Thinkpad with Ubuntu on it. I h
 ### Minorities in Tech
 Tech is a field that is still very much a white boys' club. I like collecting articles that eloquently describe various complications/struggles that minorities face in the tech field resources for minorities in the field. [Minorities in Tech](minorities-in-tech.md)
 
+I also collect articles on this subject that I don't particularly agree with to better understand the other side of this issue. [Debate](debate.md)
+
 ### Work
 Career development is a tricky thing for an introvert like me - I like collecting articles around how to excel in the workplace, how to become a better writer, and how to be a better public speaker. And, of course, how to stay balanced.
 
