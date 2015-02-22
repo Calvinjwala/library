@@ -10,13 +10,14 @@ If you're anything like me you have too many bookmarks, an overflowing Pocket, a
 
 ### Front End Development
 - [HTML](front-end/html.md): First things first.
+- [D3](front-end/d3.md): We love you @mbostock
 - [Sass](front-end/sass.md): Our favorite, amirite guys?
 - [Javascript](front-end/javascript.md): We'll probably never be good at writing it but we can at least try right? ... right?
 - [Performance](front-end/performance.md): Your images can ether look good and take forever, or look shitty and be fast
 - [Responsive Design](front-end/responsive-design.md): There's literally one link in here, linking to someone who has the best list of resources evar
-- [D3](front-end/d3.md): We love you @mbostock
 - [Style Guide](front-end/style-guide.md): Code style guides and design style guides, just to be confusing
 - [SVG](front-end/svg.md): SVGs are awesome
+- [News](front-end/news.md): Where I look to find newest inspiration
 
 ### Design
 - [Icons](design/icons.md): Icons ftw!
