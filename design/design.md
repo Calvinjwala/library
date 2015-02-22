@@ -1,14 +1,19 @@
 # Design
-General design library.
+My favorite design articles.
+
+## Table of Contents
+1. [Color](./color.md)
+2. [Icons]()
+2. [Illustration]()
+3. [Photos]()
+4. [Sketch]()
+5. [Sound]()
+7. [Typography]()
+6. [UI]()
+7. [UX]()
 
 ## Library
-- [Dribbble](https://dribbble.com/): Follow designers, see what they're up to.
-- [The Anatomy Of A Winning Product Critique](http://www.fastcodesign.com/3032051/the-anatomy-of-a-winning-product-critique): Structure for how to critique products _well_.
-- [Make it Homey](http://frankchimero.com/blog/make-it-homely/): Making what you want.
 - [A Brief History of Web Design for Designers](http://blog.froont.com/brief-history-of-web-design-for-designers/): Fun gifs showing how ui design has changed over the years.
-- [7 Rules for Creating Gorgeous UIs](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda): solid advice about how designers make things on-screen feel interactable.
 - [Before You Hire Designers](http://alistapart.com/article/before-you-hire-designers): Before you hire designers, you need to clean up shop so that they can actually do their thing.
-
-## Color
-- [Equating Color and Transparency](http://viget.com/inspire/3027): How to compute the hex code you want when what you really need is "80% opacity of _this_ color."
-- [Design Tip: Never Use Black](http://ianstormtaylor.com/design-tip-never-use-black/): A explanation about colors
+- [Make it Homey](http://frankchimero.com/blog/make-it-homely/): Making what you want.
+- [The Anatomy Of A Winning Product Critique](http://www.fastcodesign.com/3032051/the-anatomy-of-a-winning-product-critique): Structure for how to critique products _well_.
