@@ -47,7 +47,7 @@ Front End Dev is the majority of what I do. I normally will create a local serve
 ### Mac
 In high school I got my first computer: a Lenovo Thinkpad with Ubuntu on it. I haven't used a Windows computer since. That said there are lots of things that surprise me about my computer, from Unix to Mac-specific things. Every couple of months I like to go through and up my computer-productivity. 
 
-- [Applications](mac/applications.md): Applications I use that don't really fall into any other category but that I like a lot nonetheless.
+- [Applications](mac/application-list.md): Applications I use that don't really fall into any other category but that I like a lot nonetheless.
 - [General](mac/mac.md): Articles that have helped me demystify my computer.
 
 ### Minorities in Tech
