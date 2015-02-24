@@ -9,5 +9,4 @@ Things that seem worth incorporating but that I haven't gotten around to vetting
 - [WURFL](http://wurfl.io/)
 - [Semantic SASS](https://github.com/anthonyshort/idiomatic-sass)
 - [SQLite vs MySQL vs PostgreSQL](https://www.digitalocean.com/community/tutorials/sqlite-vs-mysql-vs-postgresql-a-comparison-of-relational-database-management-systems)
-
-
+- [SwiftCast](https://swiftcast.tv/screencasts): Swift lang screencasts.
