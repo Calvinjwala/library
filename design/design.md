@@ -17,3 +17,4 @@ My favorite design articles.
 - [Before You Hire Designers](http://alistapart.com/article/before-you-hire-designers): Before you hire designers, you need to clean up shop so that they can actually do their thing.
 - [Make it Homey](http://frankchimero.com/blog/make-it-homely/): Making what you want.
 - [The Anatomy Of A Winning Product Critique](http://www.fastcodesign.com/3032051/the-anatomy-of-a-winning-product-critique): Structure for how to critique products _well_.
+- [Recently Rejected](http://www.recentlyrejected.com/): Curated site with a graveyard of rejected ideas.
