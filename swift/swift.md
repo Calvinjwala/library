@@ -1,0 +1,1 @@
+- [Notifications in iOS8](http://thecodeninja.tumblr.com/post/89942124085/notifications-in-ios-8-part-1-using-swift-what): Code just works. Don't you love that?
