@@ -1,8 +1,8 @@
 # Markdown
-Favorite tool for writing. Also check out [Applications](../mac/applications.md) for my favorite programs.
+Favorite tool for writing. Also check out [Applications](../mac/applications.md) for my favorite programs to use it with.
 
 ## Cheatsheet
-- [Github Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/): This is the most common markdown syntax I use.
+- [Github Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/): This is the most common markdown syntax I use, so I reference this page a lot.
 
 ## Tools
 - [Escrit.es](http://ecrit.es/): Markdown in the browser.
