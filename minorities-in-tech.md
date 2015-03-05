@@ -6,6 +6,7 @@
 ## Inclusivity
 - [Alcohol and Inclusivity: Planning Tech Events with Non-Alcoholic Options](https://modelviewculture.com/pieces/alcohol-and-inclusivity-planning-tech-events-with-non-alcoholic-options)
 - [Can We Stop Equating Success in Engineering with Acting Like a Man](https://medium.com/@trisha/can-we-stop-equating-success-in-engineering-with-acting-like-a-man-219130e12fd0): Succinct steps on how to 
+- [Conference Diversity 101](http://conference.hopper.org.nz/): Fabulous writeup on conference diversity from the people at Grace Hopper. Lots of things to make sure you've covered.
 
 ## Personal Stories
 - [The Other Side of Diversity](https://medium.com/thelist/the-other-side-of-diversity-1bb3de2f053e): One woman describing the struggles of never fitting in in the tech scene.
