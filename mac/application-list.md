@@ -37,5 +37,11 @@
 - [Twitter]()
 - [Year Walk]()
 
+## Not Out Yet, but Puchasing Second It Is
+- [Night In The Woods](http://www.bombsfall.com/?portfolio=night-in-the-woods): adventure game that's truly beautiful.
+
+## Considering
+- [Ghostnote](https://itunes.apple.com/us/app/ghostnote/id933038684?mt=12)
+
 ## Adobe
 
