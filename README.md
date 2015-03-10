@@ -7,7 +7,7 @@ If you're anything like me you have too many bookmarks, an overflowing Pocket, a
 3. [Empathy](#empathy)
 4. [Front End Development](#front-end-development)
 5. [Mac](#mac)
-6. [Women in Tech](#women-in-tech)
+6. [Minorities in Tech](#minorities-in-tech)
 7. [Work](#work)
 
 ### Command Line
