@@ -23,6 +23,7 @@ My favorite design articles.
 ## Designers Whose Work I Love
 - [Allison House](https://dribbble.com/house): Ugh, [need I say more](https://dribbble.com/shots/1551852-Volumetric-Drive-by). Her illustration explorations have been blowing my mind.
 - [Axel Herrmann](https://dribbble.com/AxelHerrmann): Detailed illustration work and a superb control of color.
+- [Brent Clouse](https://dribbble.com/brentclouse): Gorgeous animation work.
 - [Daniel Eden](https://dribbble.com/dte): Animation and type have never looked so beautiful.
 - [Dave Grey](https://dribbble.com/davegrey): Pixel art and gifs, how could you not love that?
 - [Timothy J. Reynolds](https://dribbble.com/turnislefthome): The lowpoly king. He's made me interested in cars even though under other circumstances I wouldn't give a damn.
