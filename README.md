@@ -83,4 +83,4 @@ Career development is a tricky thing for an introvert like me, so I like collect
 - [Work Life Balance](work/work-life-balance.md): A collection of articles around how to just be happy while getting what you need done done.
 
 ### Odds and Ends
-My [Need to be Vetted](need-to-be-vetted.md) file is for articles that I haven't read yet but wanted to keep bookmarked somewhere. I also use Pocket for this, which is... confusing. I might delete this.
+My [Need to be Vetted](need-to-be-vetted.md) file is for articles that I haven't read yet but wanted to keep bookmarked somewhere. I also use Pocket for this, which is... confusing. I might delete this so I wouldn't recommended bookmarking/referencing this file in particular.
