@@ -3,11 +3,11 @@ These are the apps I use a lot of on my computer, organized into what they help 
 
 ## Design Programs
 - [Sketch](http://bohemiancoding.com/sketch/): It took a bit to get used to Sketch (the key commands are different from the Adobe programs and its strengths are very different from say, Photoshop) but I now use it exclusively for UI design and love it. It's worth learning in particular if you do or wish to get into app development as it's easy to export assets for XCode and Android.
-- [Illustrator](http://www.adobe.com/products/illustrator.html): The Adobe monolith for vector design and illustration. When creating icons/vector illustrations I still use Illustrator over Sketch as that's it's real strength.
-- [Lightroom](http://www.adobe.com/products/photoshop-lightroom.html)
-- [After Effects](http://www.adobe.com/products/aftereffects.html)
-- [Photoshop](http://www.photoshop.com/)
-- [Sketch Mirror](http://www.bohemiancoding.com/sketch/features/)
+- [Illustrator](http://www.adobe.com/products/illustrator.html): The Adobe monolith for vector design and illustration. When creating icons/vector illustrations I still use Illustrator over Sketch as that's its real strength.
+- [Lightroom](http://www.adobe.com/products/photoshop-lightroom.html): I use Lightroom for all of my photography corrections - it's built for it, as opposed to Photoshop.
+- [After Effects](http://www.adobe.com/products/aftereffects.html): I use After Effects less and less over CSS animations/protoyping with code, but occasionally for more complex animations I'll use After Effects.
+- [Photoshop](http://www.photoshop.com/): I only use Photoshop for photo manipulation/retouching these days (whitening teeth, removing blemishes, those sorts of things). I don't think I've started anything new it in in over a year but it's still a monolith in the community.
+- [Sketch Mirror](http://www.bohemiancoding.com/sketch/features/): Allows you to mirror your artboards/designs onto devices with the Sketch Mirror app on them, which is pretty nifty. There are other apps you can find that do this for Photoshop that ou can find with a quick google.
 - [LiveSurface Content](http://www.livesurface.com/): I used this a ton while preparing assets for my portfolio. It's a huge list of templates for product design display (imagine, "I need to get this poster design on a huge banner in NYC to show it off"). The selection of free templates is fairly limited but I was happy to pay the $10/month to get the whole lot.
 - [Suitcase Fusion](http://www.extensis.com/font-management/suitcase-fusion/): In design school I had so many fonts activated that it started to really slow down my computer. Installing and deactivating fonts using Suitcase Fusion really helped with that, and it showed more of the glyphs available in a font family than regular Font Book every did. I don't use it these days (it was slow, I do less design work) but for someone doing lots of different design projects with short turnaround times that are all different from each other, I'd recommend it.
 
