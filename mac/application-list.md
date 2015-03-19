@@ -12,7 +12,7 @@ These are the apps I use a lot of on my computer, organized into what they help 
 - [Suitcase Fusion](http://www.extensis.com/font-management/suitcase-fusion/): In design school I had so many fonts activated that it started to really slow down my computer. Installing and deactivating fonts using Suitcase Fusion really helped with that, and it showed more of the glyphs available in a font family than regular Font Book every did. I don't use it these days (it was slow, I do less design work) but for someone doing lots of different design projects with short turnaround times that are all different from each other, I'd recommend it.
 
 ## Development Programs
-- [Dash](http://kapeli.com/dash)
+- [Dash](http://kapeli.com/dash): Offload documentation. I bought it because I was tired of waiting for the docs to load. When you're without internet it beats nothing by a long shot.
 - [IconSlate](https://itunes.apple.com/us/app/icon-slate/id439697913?mt=12)
 - [iTerm](http://iterm2.com/)
 - [JPEGmini](http://www.jpegmini.com/)
