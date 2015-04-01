@@ -13,6 +13,9 @@ Tech is a field that is still very much a white boys' club. I like collecting ar
 - [Conference Diversity 101](http://conference.hopper.org.nz/): Fabulous writeup on conference diversity from the people at Grace Hopper. Lots of things to make sure you've covered.
 - [Technical Interviews Are Bullshit](https://modelviewculture.com/pieces/technical-interviews-are-bullshit): They tend to celebrate biases and prove only that you know Big O-Notation on a whiteboard - if that isn't what your company does, than who cares?
 
+## Black Cause
+- [Where Are The Black Designers?](https://www.youtube.com/watch?v=eBuFCkmyYuA&feature=youtu.be): [3eighteen media's](https://www.youtube.com/channel/UCVpmqdHQZj7ocqhKUnGPf8w) in-depth explanation as to why blacks are so poorly represented in design.
+
 ## Hiring
 - [25 Tips for Diverse Hiring](https://modelviewculture.com/pieces/25-tips-for-diverse-hiring): GMostly iterations on: Expand beyond your network. 
 
