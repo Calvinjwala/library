@@ -6,6 +6,7 @@ Tech is a field that is still very much a white boys' club. I like collecting ar
 
 ## WTF Moments
 - [Tech's Meritocracy Problem](https://medium.com/@jocelyngoldfein/techs-meritocracy-problem-a6e5e0a56157): Microsoft CEO dun fuq'd up.
+- [Diversity Efforts in Need of Funding](https://gist.github.com/daneden/106582b3800a527b5596): Nice little list from @daneden.
 
 ## Inclusivity
 - [Alcohol and Inclusivity: Planning Tech Events with Non-Alcoholic Options](https://modelviewculture.com/pieces/alcohol-and-inclusivity-planning-tech-events-with-non-alcoholic-options)
