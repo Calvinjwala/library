@@ -21,6 +21,7 @@ Our favorite CSS precompiler.
 	.other-selector .selector { ... }
 	```
 - [All You Ever Need to Know About Sass Interpolation](http://webdesign.tutsplus.com/tutorials/all-you-ever-need-to-know-about-sass-interpolation--cms-21375): How it works and some useful examples.
+- [The 30 CSS Selectors You Must Memorize](http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048): I reference this a lot - all of the ways you can reference different descendants.
 
 ## Tools
 - [Shrthnd](http://shrthnd.volume7.io/): Concatenate your CSS selectors into their shorthand versions.
